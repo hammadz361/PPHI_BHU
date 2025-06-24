@@ -5,7 +5,7 @@ workflows:
       flutter: stable
       xcode: latest
       vars:
-        APP_ID: "com.example.yourapp"
+        APP_ID: "com.pphi.bhuapp"
     scripts:
       - name: Install dependencies
         script: |
